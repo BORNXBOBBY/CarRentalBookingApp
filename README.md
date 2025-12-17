@@ -4,7 +4,7 @@ A simple **Flutter Car Rental App** demonstrating a complete booking flow using 
 
 ---
 
-## Feature
+## Features
 
 1. **Welcome / Login Screen**
     - Mock login functionality (no backend).
